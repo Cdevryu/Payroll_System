@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CIS407", "http://localhost:57843", "{BAFFED93-A754-439A-9F05-5066F61C6386}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57843"
+		Debug.AspNetCompiler.PhysicalPath = "\\sce.academic.net\homedir$\D40262849\Documents\Visual Studio 2012\CIS407\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57843\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57843"
+		Release.AspNetCompiler.PhysicalPath = "\\sce.academic.net\homedir$\D40262849\Documents\Visual Studio 2012\CIS407\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57843\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "\\sce.academic.net\homedir$\D40262849\Documents\Visual Studio 2012\CIS407\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA20E1BC-AF30-4DB0-9D89-B07C7FB0D05E}"
+	ProjectSection(SolutionItems) = preProject
+		Week 3 Lab\PayrollSystem_DB.accdb = Week 3 Lab\PayrollSystem_DB.accdb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFFED93-A754-439A-9F05-5066F61C6386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFFED93-A754-439A-9F05-5066F61C6386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
